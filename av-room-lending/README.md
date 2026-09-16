@@ -1,4 +1,4 @@
-# AV Room Lending Desk
+# AV Room Lending Desk (Equipment rental)
 
 A small lending-desk dashboard for a college AV room. It replaces the paper-register workflow with a clear view of equipment, bookings, active loans, transfers and returns.
 
